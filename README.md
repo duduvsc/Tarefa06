@@ -1,3 +1,5 @@
+OBRIGADO POR TUDO PROFESSOR!!!!
+
 Aplicativo de Rede Social Básica
 Este é um aplicativo de rede social básica desenvolvido usando React Native. O aplicativo permite aos usuários criar perfis, fazer posts, comentar em posts, fazer upload de fotos e curtir posts de outros usuários.
 
